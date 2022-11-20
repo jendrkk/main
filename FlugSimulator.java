@@ -1,5 +1,10 @@
 public class FlugSimulator {
     public static void main(String[] args) {
+
+        // TEST  
+        System.out.println("Hm...")
+
+
         int anzahlFluege = Integer.parseInt(args[0]);
         int pax = 75;
         double wkeit = 0.92;
